@@ -1,0 +1,14 @@
+1.	Processo de abertura da base de dados:
+É o processo de filtragem de dados, nesta etapa serão extraídos dados para analise.
+2.	Documento de Plano para analise de Dados (PAD):
+O PAD ira traçar o caminho da exploração de dados quanto ao escopo, prazo, interessados, etc.
+3.	Reunião do inicio do projeto
+A primeira reunião entre as partes interessadas haverá definição do escopo e do prazo do projeto.
+4.	Requisição de documentação:
+Solicitar especificações da base de dados.
+5.	Definir a estrutura de dados:
+Nesta etapa definiremos os formatos de dados que serão utilizados.
+6.	Desenvolver solução:
+Após a definição das estruturas de dados, o desenvolvimento será realizado visando atender as solicitações dos interessados.
+7.	Gerar relatórios:
+Após a implementação de analise de dados, iremos gerar dados informativos para que as partes interessadas tenham facilidade para interpretar os dados.
